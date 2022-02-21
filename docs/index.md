@@ -1,43 +1,44 @@
-﻿# Table of Contents
-## [Overnight Apple Cinnamon Oatmeal](#_Toc96190509)
+# Table of Contents
+## [Overnight Apple Cinnamon Oatmeal](#overnight-apple-cinnamon-oatmeal-1)
 
-- [Overview](#_Toc96190510)
+- [Overview](#overview)
 
-- [Ingredients](#_Toc96190511)
+- [Ingredients](#ingredients)
 
-- [Instructions](#_Toc96190512)
+- [Instructions](#instructions)
 
-- [Warning](#_Toc96190513)
+- [Warning](#warning)
 
-## [Omelet Toast](#_Toc96190514)
+## [Omelet Toast](#omelet-toast-1)
 
-- [Overview](#_Toc96190515)
+- [Overview](#overview-1)
 
-- [Ingredients](#_Toc96190516)
+- [Ingredients](#ingredients-1)
 
-- [Instructions](#_Toc96190517)
+- [Instructions](#instructions-1)
 
-- [Warning](#_Toc96190518)
+- [Warning](#warning-1)
 
-## [Hash Browns](#_Toc96190519)
+## [Hash Browns](#hash-browns-1)
 
-- [Overview](#_Toc96190520)
+- [Overview](#overview-2)
 
-- [Ingredients](#_Toc96190521)
+- [Ingredients](#ingredients-2)
 
-- [Instructions](#_Toc96190522)
+- [Instructions](#instructions-2)
 
-- [Warning](#_Toc96190523)
+- [Warning](#warning-2)
 
-## [Banana Smoothie](#_Toc96190524)
+## [Banana Smoothie](#banana-smoothie-1)
 
-- [Overview](#_Toc96190525)
+- [Overview](#overview-3)
 
-- [Ingredients](#_Toc96190526)
+- [Ingredients](#ingredients-3)
 
-- [Instructions](#_Toc96190527)
+- [Instructions](#instructions-3)
 
-- [Warning](#_Toc96190528)
+- [Warning](#warning-3)
+
 
 
 
@@ -112,7 +113,7 @@ This hashbrown recipe has an Indian twist too it by utilizing the Indian spices 
 ## Warning
 Be careful to keep your fingers away from the grater and to be safe around the stove. 
 
-![Hashbrowns](hashbrowns.jpeg)
+![Hashbrowns](hashbrown.jpeg)
 
 # Banana Smoothie
 ## Overview
