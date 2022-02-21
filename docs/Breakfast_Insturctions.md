@@ -59,7 +59,7 @@ I have used this oats recipe ever since mom showed me it in 10th grade. It has t
 ## Warning
 As this recipe calls for slicing apples, ensure that you are using the proper grip on the knife and apple to ensure that you don’t cut yourself.
 
-![Overnight Oats](oats.jpg)
+![Overnight Oats](oats.jpeg)
 
 # Omelet Toast
 ## Overview
@@ -84,7 +84,7 @@ Over the pandemic I got into cooking and wanted an easy way to make egg toast in
 ## Warning
 Since we are using a stove in this recipe ensure that you are being safe around the hot stove and pan.
 
-![Breaksfast Sandwich](breakfast_sandwich.jpg)
+![Breaksfast Sandwich](breakfast_sandwich.jpeg)
 
 # Hash Browns
 ## Overview
@@ -112,7 +112,7 @@ This hashbrown recipe has an Indian twist too it by utilizing the Indian spices 
 ## Warning
 Be careful to keep your fingers away from the grater and to be safe around the stove. 
 
-![Hashbrowns](hashbrowns.jpg)
+![Hashbrowns](hashbrowns.jpeg)
 
 # Banana Smoothie
 ## Overview
@@ -130,4 +130,4 @@ A simple, healthy, and clean drink to start of your day. This will allow you to 
 ## Warning
 Ensure that you don’t start the blender with your hands near the blade! 
 
-![Banana Smoothie](smoothie.jpg)
+![Banana Smoothie](smoothie.jpeg)
