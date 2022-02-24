@@ -14,6 +14,7 @@ I have used this oats recipe ever since mom showed me it in 10th grade. It has t
 1. Pour the milk into the mason jar.
 1. Finish by adding the chopped apple, cinnamon, and honey.
 1. Place in the fridge for at least 8 hours and up to 72 hours.
+
 ## Warning
 As this recipe calls for slicing apples, ensure that you are using the proper grip on the knife and apple to ensure that you don’t cut yourself.
 
