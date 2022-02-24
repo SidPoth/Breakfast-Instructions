@@ -29,7 +29,7 @@
 
 - [Warning](#warning-2)
 
-## [Banana Smoothie](#banana-smoothie-1)
+## [Banana Smoothie](https://sidpoth.github.io/Breakfast-Instructions/smoothie)
 
 - [Overview](#overview-3)
 
