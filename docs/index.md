@@ -1,7 +1,7 @@
 # Table of Contents
 ## [Overnight Apple Cinnamon Oatmeal](https://sidpoth.github.io/Breakfast-Instructions/overnightoats)
 
-- [Overview](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#overview)
+- [Overview](https://sidpoth.github.io/Breakfast-Instructions/overnightoats#overview)
 
 - [Ingredients](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#ingredients)
 
