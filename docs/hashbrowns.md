@@ -11,7 +11,7 @@ This hashbrown recipe has an Indian twist too it by utilizing the Indian spices 
   - Pepper
   - Chili Powder (Cayenne powder works too)
   - Chili flakes
-  - 
+
 ## Instructions
 1. Shred the potatoes with a grater.
 2. Place the potato shreds into a bowl of cold water.
