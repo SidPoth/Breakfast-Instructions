@@ -1,5 +1,5 @@
 # Table of Contents
-## [Overnight Apple Cinnamon Oatmeal](#overnight-apple-cinnamon-oatmeal-1)
+## [Overnight Apple Cinnamon Oatmeal](https://sidpoth.github.io/Breakfast-Instructions/overnightoats)
 
 - [Overview](#overview)
 
@@ -9,7 +9,7 @@
 
 - [Warning](#warning)
 
-## [Omelet Toast](#omelet-toast-1)
+## [Omelet Toast](https://sidpoth.github.io/Breakfast-Instructions/omelettoast)
 
 - [Overview](#overview-1)
 
@@ -19,7 +19,7 @@
 
 - [Warning](#warning-1)
 
-## [Hash Browns](#hash-browns-1)
+## [Hash Browns](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns)
 
 - [Overview](#overview-2)
 
