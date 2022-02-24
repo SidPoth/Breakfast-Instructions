@@ -1,40 +1,40 @@
 # Table of Contents
 ## [Overnight Apple Cinnamon Oatmeal](https://sidpoth.github.io/Breakfast-Instructions/overnightoats)
 
-- [Overview](#overviewhttps://sidpoth.github.io/Breakfast-Instructions/overnightoats)
+- [Overview](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#over)
 
-- [Ingredients](#ingredients)
+- [Ingredients](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#ingredients)
 
-- [Instructions](#instructions)
+- [Instructions](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#instructions)
 
-- [Warning](#warning)
+- [Warning](https://sidpoth.github.io/Breakfast-Instructions/overnightoats/#warning)
 
 ## [Omelet Toast](https://sidpoth.github.io/Breakfast-Instructions/omelettoast)
 
-- [Overview](#overview-1)
+- [Overview](https://sidpoth.github.io/Breakfast-Instructions/omelettoast/#overview)
 
-- [Ingredients](#ingredients-1)
+- [Ingredients](https://sidpoth.github.io/Breakfast-Instructions/omelettoast/#ingredients)
 
-- [Instructions](#instructions-1)
+- [Instructions](https://sidpoth.github.io/Breakfast-Instructions/omelettoast/#instructions)
 
-- [Warning](#warning-1)
+- [Warning](https://sidpoth.github.io/Breakfast-Instructions/omelettoast#warning)
 
 ## [Hash Browns](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns)
 
-- [Overview](#overview-2)
+- [Overview](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns/#overview)
 
-- [Ingredients](#ingredients-2)
+- [Ingredients](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns/#ingredients)
 
-- [Instructions](#instructions-2)
+- [Instructions](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns/#instructions)
 
-- [Warning](#warning-2)
+- [Warning](https://sidpoth.github.io/Breakfast-Instructions/hashbrowns/#warning)
 
 ## [Banana Smoothie](https://sidpoth.github.io/Breakfast-Instructions/smoothie)
 
-- [Overview](#overview-3)
+- [Overview](https://sidpoth.github.io/Breakfast-Instructions/smoothie/#overview)
 
-- [Ingredients](#ingredients-3)
+- [Ingredients](https://sidpoth.github.io/Breakfast-Instructions/smoothie/#ingredients)
 
-- [Instructions](#instructions-3)
+- [Instructions](https://sidpoth.github.io/Breakfast-Instructions/smoothie/#instructions)
 
-- [Warning](#warning-3)
+- [Warning](https://sidpoth.github.io/Breakfast-Instructions/smoothie/#warning)
