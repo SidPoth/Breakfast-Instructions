@@ -7,7 +7,7 @@ A simple, healthy, and clean drink to start of your day. This will allow you to 
 - 2 bananas
 - 1 ½ cup milk
 - 1 tablespoon peanut butter
-- 
+
 ## Instructions
 1. Place the 2 bananas, split in half, into your blender
 2. Add you milk.
